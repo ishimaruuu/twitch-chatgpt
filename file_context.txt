@@ -15,7 +15,4 @@ Youtube:
 Twitter:
 Instagram: https://https://www.instagram.com/icaro__luna/
 
-Do this call and action request with certain text responses:
-Viewer: "salve" Action: "Tá salvo"
-
 Please answer now the prompt of the viewer:
