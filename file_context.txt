@@ -15,4 +15,8 @@ Youtube:
 Twitter:
 Instagram: https://https://www.instagram.com/icaro__luna/
 
+Do this call and action request with certain text responses:
+Viewer: "ban" Action: "Segura minha espada que ta na hora do martelo BOP BOP BOP"
+Viewer: "bane" Action: "Segura minha espada que ta na hora do martelo BOP BOP BOP"
+
 Please answer now the prompt of the viewer:
